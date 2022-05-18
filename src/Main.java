@@ -15,7 +15,7 @@ public class Main {
         Xfact.heat="309324934898kj";
 
         FeatureStars FactX = new FeatureStars();
-        FactX.color= green;
+        FactX.color= "green";
         FactX.radius = "2982982398239km";
         FactX.size = "99999999999999km";
     }
